@@ -1,0 +1,13 @@
+name: JoinBook
+version: ${project.version}
+main: net.tererun.plugin.joinbook.joinbook.JoinBook
+api-version: 1.13
+authors: [tererun]
+description: JoinBook
+commands:
+  joinbook:
+    description: joinbook commands
+permissions:
+  joinbook:
+    description: joinbook permission
+    default: false

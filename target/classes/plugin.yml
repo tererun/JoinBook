@@ -1,0 +1,13 @@
+name: JoinBook
+version: Patch-1.2.0
+main: net.tererun.plugin.joinbook.joinbook.JoinBook
+api-version: 1.13
+authors: [tererun]
+description: JoinBook
+commands:
+  joinbook:
+    description: joinbook commands
+permissions:
+  joinbook:
+    description: joinbook permission
+    default: false

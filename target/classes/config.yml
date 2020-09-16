@@ -1,0 +1,27 @@
+#You can choose English (en_US) or Japanese (ja_JP)
+Lang: en_US
+OpenLaterTick: 0
+OnlyFirstJoin: false
+LangMessage:
+  en_US:
+    Command:
+      Help: Display this help
+      SetBook: Set a book
+      OpenBook: Open book
+      Error: The command syntax is incorrect!
+      Have_not_permission: You do not have the required permissions!
+      NotSetBook: Book is not set!
+    SetBookMessage: It has changed!
+    Have_not_book: Run with a book!
+    OpenedMessage: Opened!
+  ja_JP:
+    Command:
+      Help: このヘルプを表示します
+      SetBook: 本をセットします
+      OpenBook: セットしてある本を開きます
+      Error: コマンドの構文が間違っています！
+      NotSetBook: 本がセットされていません！
+      Have_not_permission: あなたは必要なパーミッションを持っていません！
+    SetBookMessage: 本を変更しました！
+    Have_not_book: 本を持って実行してください！
+    OpenedMessage: 本を開きました！
