@@ -6,7 +6,7 @@
 
     <groupId>net.tererun.plugin.joinbook</groupId>
     <artifactId>JoinBook</artifactId>
-    <version>Patch-1.2.0</version>
+    <version>Patch-1.2.1</version>
     <packaging>jar</packaging>
 
     <name>JoinBook</name>
