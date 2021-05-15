@@ -16,7 +16,7 @@ public final class JoinBook extends JavaPlugin {
     public static String logCMD;
     public static String successCMD;
     public static String language;
-    public static HashSet<UUID> uuids;
+    public static HashSet<UUID> uuids = new HashSet<>();
 
     @Override
     public void onEnable() {
